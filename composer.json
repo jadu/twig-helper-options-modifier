@@ -1,0 +1,14 @@
+{
+    "name": "jadu/twig-helper-options-modifier",
+    "description": "An internal method for Pulsar’s form helpers which checks for the presence of
+    errors or help text and creates GUIDs to be targeted by aria attributes",
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {
+            "Jadu\\Pulsar": "src"
+        }
+    },
+    "require": {
+        "twig/twig": "^2.0"
+    }
+}
